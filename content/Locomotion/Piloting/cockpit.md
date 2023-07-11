@@ -1,5 +1,6 @@
 ---
 title: Cockpit
+tags: ['Seated']
 ---
 In Implementation, a cockpit is the same as a [room scale vehicle]({{< ref "room-scale-vehicle.md" >}}). In a cockpit, there is no expectation that the user will move around their space. They will likely be seated.
 
