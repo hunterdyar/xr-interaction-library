@@ -1,0 +1,6 @@
+# ignore build directory, will build site through github pages action
+/public
+.DS_Store
+node_modules
+dist
+tmp
