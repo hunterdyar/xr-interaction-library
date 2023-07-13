@@ -13,10 +13,15 @@ It is easy to make small, precise adjustments, and easy to move in directions th
 - It feels good to quickly move oneselves "backward" to a precise spot from memory.
 - The movement input takes exclusive control of the 'grab' buttons on the remote to prevent conflation of movement and selection.
 - The blue grid that appears is not the users play space, but a "comfort cage" that provides a visual anchor to help mitigate motion sickness. I think a play-space outline would also work well here.
+- The paraboloic selection arc somewhat keeps the world-movement-speed and amount-of-hand-adjustment linearly related. Without it, Selecting a spot further away will have the world dragging faster for the same amount of hand movement. This can lead undesired fast, sudden, and choppy movement; and make intuition harder to develop.
 
 ## Cons
 - It can be easy for the user to give themselves an uncomfortable experience.
-> Without thinking, I once shook out a cramp while still engaging a drag, and shook myself around. It was unpleasant.
 - Movements over large distances is repetative and annoying.
+
+{{< hint type=warning >}}
+Minimum Movement threshold, jitter prevention/smoothing, and a maximum drag speed should be explored.
+{{< /hint >}}
+
 
 {{< video "https://xrinteractionlibrary.blob.core.windows.net/vrcaptures/locomotion/drag-ground.mov" >}}

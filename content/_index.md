@@ -28,13 +28,14 @@ Links are likely to change as the organization of the site is built out.
 ## Hunter's Reasonable Defaults:
 - No Teleportation. No Locomotion. Zone based narrative travel between 'rooms' or spaces.
 - Virtual spaces resize or invisible adjust to the users play-space.
-- Adjustable height for tables/counters.
+- Adjustable [height for tables/counters]({{< ref "User-Adjustments/height-adjustable-tables.md" >}}).
 - A way to grab items out of reach, or re-spawn lost/thrown items in reach.
 - A stylized 3D representation of the controller instead of a 3D model of hands.
 - No floating 2D panels. No laser pointers.
 - In-World interactions for menu's. Consider 'Big Button' or 'Cartridge'.
 - "Real Keyboard" alternative for text-entry.
 - No voice commands or microphone access.
+- Design all interactions to be completable with only one hand.
 
 ## Also See
 - [Locomotion Vault](https://locomotionvault.github.io/)
