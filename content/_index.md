@@ -20,7 +20,7 @@ This guide is written by humans, and will break neutrality when we see fit.
 <---> <!-- magic separator, between columns -->
 
 ## WIP
-Three feels like a nice number of columns.
+Links are likely to change as the organization of the site is built out.
 {{< /columns >}}
 
 
