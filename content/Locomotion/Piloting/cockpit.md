@@ -12,6 +12,8 @@ One common approch to battling motion sickness is the "cockpit effect". By visua
 - Microsoft Flight Simulator
 - Eve Valkyrie
 - Star Wars: Squadrons
+- Aces of Thunder
+- Ultrawings
 
 {{< youtube 71-HT2XQvlY >}}
 
