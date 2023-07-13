@@ -12,5 +12,5 @@ Multiplayer experiences will want to pay attention to how users look when the av
 
 > I enjoy going into Museum of Other Realities and lying on my back "in" some art, as well as staying seated while flying about in Google Earth VR.
 
-A user sits on the floor and pets their cat while playing the casual sim game, *Little Cities*.
+A user sits cross-legged on the floor and pets their cat while playing the casual sim game, *Little Cities*.
 {{< video "https://xrinteractionlibrary.blob.core.windows.net/vrcaptures/scale/littlecities-seated-scale.mov" >}}
