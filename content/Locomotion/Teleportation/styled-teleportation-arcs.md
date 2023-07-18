@@ -7,3 +7,5 @@ Garden of the sea provides a gooey pink arc that is both of the style of the gam
 
 {{< video "https://xrinteractionlibrary.blob.core.windows.net/vrcaptures/teleportation/gardenofthesea-style-teleport.mp4" >}}
 
+## Half+Half
+Half+Half gives the user a gimbal-slingshot, and [animates]({{< ref "arc-animation.md">}}) before teleporting.
