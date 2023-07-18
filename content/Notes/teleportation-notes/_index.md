@@ -2,6 +2,11 @@
 title: Notes on Teleportation
 ---
 
+{{< hint info >}}
+This document was originally published in 2019 on the 'Immersive Media Pocket Reference', a previous collection of design notes that has since been removed and replaced with more specific projects, like this one and the [guidebook](http://guidebook.hdyar.com). The tone/content of this page may seem different.
+
+I am continuously working to "break apart" the notes from this original document to per-topic pages on this site. Further updates will happen there.
+{{< /hint >}}
 Teleportation is a simple mechanic to implement, but a difficult mechanic to implement well. Teleportation has a lot of depth.
 
 See the [Glossary entry on Teleportation](../glossary/Locomotion/Teleportation.md) for definitions.
@@ -103,7 +108,7 @@ It must always be clear to the player that they are about to end up "somewhere e
 
 **Vacation Simulator** does this through unique in-world objects and signage - as well as having an advantage of being zone-based conceptually. **Museum Of Other Realities** communicates with a consistent use of this funky tie-dye magic-gate design. It doesn't tend to show the player where they will end up, as discovery and inviting curiosity is part of the design and joy of the museum.
 
-**The Museum Of Other Realities** also has a really interesting demonstration of teleporting into a different scale, when the player can go "into" various pieces of art.
+**The Museum Of Other Realities** also has an exceptional use of teleporting into a different scale, when the player can go "into" various pieces of art.
 
 {{< video "https://xrinteractionlibrary.blob.core.windows.net/vrcaptures/teleportation/moor-teleport-scale-change.mp4" nopreload>}}
 

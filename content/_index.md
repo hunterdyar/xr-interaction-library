@@ -26,7 +26,7 @@ Links are likely to change as the organization of the site is built out.
 
 
 ## Hunter's Reasonable Defaults:
-- No Teleportation. No Locomotion. Zone based narrative travel between 'rooms' or spaces.
+- No Teleportation. No Locomotion. Zone based travel between 'rooms' or spaces as needed.
 - Virtual spaces resize or invisible adjust to the users play-space.
 - Adjustable [height for tables/counters]({{< ref "User-Adjustments/height-adjustable-tables.md" >}}).
 - A way to grab items out of reach, or re-spawn lost/thrown items in reach.
