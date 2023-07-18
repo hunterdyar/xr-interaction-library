@@ -1,5 +1,14 @@
 <div style="margin:0 auto;display:block;width:fit-content">
-<video width = "640px" controls="true" autoplay="true" loop="true" muted="true" muted class="video-js" preload="false" data-setup="{}">
+<video width = "640px" controls="true" loop="true" muted
+ {{ with (.Get 1) }}
+    {{ if eq . "nopreload" }}
+        preload="none"
+    {{ end }}
+{{ else }}
+    preload="auto"
+    autoplay
+{{ end }}>
+
 <source src="{{.Get 0 }}" type="video/mp4"/>
 <a href="{{.Get 0 }}">video clip</a>
 </video>
